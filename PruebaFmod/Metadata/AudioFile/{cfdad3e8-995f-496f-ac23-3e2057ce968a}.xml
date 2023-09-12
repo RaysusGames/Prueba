@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cfdad3e8-995f-496f-ac23-3e2057ce968a}">
+		<property name="assetPath">
+			<value>Misc_SpringySweep.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6406122448979592</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f53a74a9-3c5f-4ec1-95b8-ebbc2a95e1a8}</destination>
+		</relationship>
+	</object>
+</objects>
